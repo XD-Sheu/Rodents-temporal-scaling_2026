@@ -1,8 +1,6 @@
 # Rodents-temporal-scaling_2026
 The code to generate analytical results from paper "Heterochronic scaling of neurogenesis for species-specific dosing of cortical excitatory subtypes".
 
-# Code for: Heterochronic scaling of neurogenesis for species-specific dosing of cortical excitatory subtypes
-
 This repository contains the R code used to generate Figure 6, Figure 7, and the supplementary figures for the paper *"Heterochronic scaling of neurogenesis for species-specific dosing of cortical excitatory subtypes"*.
 
 ## Repository Structure
