@@ -10,4 +10,4 @@ The analysis is divided into two main directories:
 * **`five-mammalian-species-gene-expression-dynamics/`**: Contains the R scripts used to analyze and visualize the evolutionary gene expression dynamics across the five species.
 
 ## Contact
-For any questions regarding the code or data analysis, please contact Dr.Sheu at [zxhutokyo@gmail.com](mailto:zxhutokyo@gmail.com) and Dr.Suzuki at [suzuki.ikuo@gmail.co](mailto:suzuki.ikuo@gmail.com).
+For any questions regarding the code or data analysis, please contact Dr.Sheu at [zxhutokyo@gmail.com](mailto:zxhutokyo@gmail.com) and Dr.Suzuki at [suzuki.ikuo@gmail.co](mailto:suzuki.ikuo@gmail.com)
