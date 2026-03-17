@@ -1,4 +1,4 @@
-# Rodents-temporal-scaling_2026
+# Rodents-temporal-scaling
 
 This repository contains the R code used to generate Figure 6, Figure 7, and the supplementary figures for the paper *"Heterochronic scaling of neurogenesis for species-specific dosing of cortical excitatory subtypes"*.
 
